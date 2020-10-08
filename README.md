@@ -4,8 +4,12 @@ Awesome Tools for cyclists
 ## Table of contents
 
 * [Social](#social) - Social networks, etc.
+  * [Reddit](#reddit) - Bike related subreddits
 * [Route and Route Planning](#routes-and-route-planning) - Routes and route planning, where to ride, etc.
-** [Where to ride](#where-to-ride) - Dont know where to ride? See this resources
+  * [Where to ride](#where-to-ride) - Dont know where to ride? See this resources
+* [News](#news) - News and bike reviews
+* [Stores and Shops](#stores-and-shops) - Bike stores and shops
+* [Tools and Miscellaneous](#tools) - Usefull tools
 
 ## Social
 *Social network and cycling communities*
@@ -50,7 +54,7 @@ Awesome Tools for cyclists
 * [Wiggle](https://wiggle.com) - same as CRC above, but with different prices for shipping
 
 
-## Tools and Bots
+## Tools
 
 ### Telegram Bots
 *Bots for Telegram messanger*
