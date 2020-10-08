@@ -60,9 +60,14 @@ Awesome Tools for cyclists
 ## Tools
 *Usefull tools for bikers*
 
-* [gear-calculator](http://gear-calculator.com/) - gears calculator
-* [zipp-tire-pressure-gide](https://axs.sram.com/tirepressureguide) - ZIPP (SRAM) tire pressure guide
+### Gear
+*Gear caclulator, etc*
 
+* [gear-calculator](http://gear-calculator.com/) - gears calculator
+
+### Wheels and rims
+* [zipp-tire-pressure-gide](https://axs.sram.com/tirepressureguide) - ZIPP (SRAM) tire pressure guide
+* [29er-mtb-tire-weight](https://docs.google.com/spreadsheets/d/1Lut8_K1uDmyvqARZnS0IuMdkO8oQOQ5QnDA6J3guVBY/edit#gid=0) - 29er tire weight database
 
 ### Telegram Bots
 *Bots for Telegram messanger*
