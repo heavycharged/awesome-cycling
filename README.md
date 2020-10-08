@@ -18,3 +18,14 @@ Awesome Tools for cyclists
 * [AllTrails](https://alltrails.com/) - routes and route planning
 * [WikiLoc](https://wikiloc.com/) - routes and route planning
 * [Strava Heatmap](https://www.strava.com/heatmap) - see where cyclists rides on the Strava Heatmap
+
+
+## Tools and Bots
+
+### Telegram Bots
+*Bots for Telegram messanger*
+
+* [StravaGPXBot](https://t.me/stravagpxbot) - Download GPX file from Strava activity
+
+### Browser Extensions
+TODO: add
