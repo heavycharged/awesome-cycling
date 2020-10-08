@@ -12,6 +12,15 @@ Awesome Tools for cyclists
 
 * [Strava](https://strava.com/) - most popular social network for cyclist and runners
 
+### Reddit
+* [r/MTB](https://www.reddit.com/r/MTB/) - mountain bikers subreddit
+* [r/cycling](https://www.reddit.com/r/cycling) - cycling subreddit
+* [r/bikewrench](https://www.reddit.com/r/bikewrench) - question about bike repair and setup
+* [r/29er](https://www.reddit.com/r/29er/) - 29er fans subreddit
+* [r/Bikeporn](https://www.reddit.com/r/Bikeporn/) - bike photos
+* [r/dhmtb](https://www.reddit.com/r/dhmtb/) - downhill videos and stuff
+* [r/enduromtb](https://www.reddit.com/r/enduromtb/) - enduro videos and stuff (low activity)
+
 ## Routes and Route planning
 ### Where to ride
 * [TrailForks](https://www.trailforks.com/) - trails for mountain bikers
