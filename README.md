@@ -32,6 +32,7 @@ Awesome Tools for cyclists
 * [AllTrails](https://alltrails.com/) - routes and route planning
 * [WikiLoc](https://wikiloc.com/) - routes and route planning
 * [Strava Heatmap](https://www.strava.com/heatmap) - see where cyclists rides on the Strava Heatmap
+* [SpotMap](https://spotmap.ru/mtb) - map of rideable spots (MTB, BMX and skateboard)
 
 ## News
 *Cycling news, reviews, etc.*
@@ -39,6 +40,8 @@ Awesome Tools for cyclists
 * [PinkBike](https://pinkbike.com/) - mountain biking news, reviews, events, etc.
 * [EnduroMTB](https://enduro-mtb.com/en/) - bike & components reviews with metrics and science
 
+### Podcasts
+* [mtbpodcast](https://www.mtbpodcast.com/) - MTB related podcast
 
 ## Stores and shops
 
@@ -55,6 +58,11 @@ Awesome Tools for cyclists
 
 
 ## Tools
+*Usefull tools for bikers*
+
+* [gear-calculator](http://gear-calculator.com/) - gears calculator
+* [zipp-tire-pressure-gide](https://axs.sram.com/tirepressureguide) - ZIPP (SRAM) tire pressure guide
+
 
 ### Telegram Bots
 *Bots for Telegram messanger*
