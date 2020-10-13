@@ -1,5 +1,5 @@
 # awesome-cycling
-Awesome Tools for cyclists
+List of usefull tools and links for cyclists
 
 ## Table of contents
 
@@ -11,19 +11,20 @@ Awesome Tools for cyclists
 * [Stores and Shops](#stores-and-shops) - Bike stores and shops
 * [Tools and Miscellaneous](#tools) - Usefull tools
 
+_______
+
 ## Social
 *Social network and cycling communities*
 
 * [Strava](https://strava.com/) - most popular social network for cyclist and runners
-
-### Reddit
-* [r/MTB](https://www.reddit.com/r/MTB/) - mountain bikers subreddit
-* [r/cycling](https://www.reddit.com/r/cycling) - cycling subreddit
-* [r/bikewrench](https://www.reddit.com/r/bikewrench) - question about bike repair and setup
-* [r/29er](https://www.reddit.com/r/29er/) - 29er fans subreddit
-* [r/Bikeporn](https://www.reddit.com/r/Bikeporn/) - bike photos
-* [r/dhmtb](https://www.reddit.com/r/dhmtb/) - downhill videos and stuff
-* [r/enduromtb](https://www.reddit.com/r/enduromtb/) - enduro videos and stuff (low activity)
+* Reddit
+  * [r/MTB](https://www.reddit.com/r/MTB/) - mountain bikers subreddit
+  * [r/cycling](https://www.reddit.com/r/cycling) - cycling subreddit
+  * [r/bikewrench](https://www.reddit.com/r/bikewrench) - question about bike repair and setup
+  * [r/29er](https://www.reddit.com/r/29er/) - 29er fans subreddit
+  * [r/Bikeporn](https://www.reddit.com/r/Bikeporn/) - bike photos
+  * [r/dhmtb](https://www.reddit.com/r/dhmtb/) - downhill videos and stuff
+  * [r/enduromtb](https://www.reddit.com/r/enduromtb/) - enduro videos and stuff (low activity)
 
 ## Routes and Route planning
 ### Where to ride
@@ -33,12 +34,16 @@ Awesome Tools for cyclists
 * [WikiLoc](https://wikiloc.com/) - routes and route planning
 * [Strava Heatmap](https://www.strava.com/heatmap) - see where cyclists rides on the Strava Heatmap
 * [SpotMap](https://spotmap.ru/mtb) - map of rideable spots (MTB, BMX and skateboard)
+### Navigation apps
+* [Komoot](https://www.komoot.com/) - Komoot - offline navigation app
+* [OsmAnd](https://osmand.net/) - OsmAnd - offline navigation app
 
 ## News
 *Cycling news, reviews, etc.*
 
 * [PinkBike](https://pinkbike.com/) - mountain biking news, reviews, events, etc.
 * [EnduroMTB](https://enduro-mtb.com/en/) - bike & components reviews with metrics and science
+* [Singletracks](https://www.singletracks.com/) - mountainbike news and reviews
 
 ### Podcasts
 * [mtbpodcast](https://www.mtbpodcast.com/) - MTB related podcast
@@ -46,7 +51,7 @@ Awesome Tools for cyclists
 ## Stores and shops
 
 ### Europe
-*European stores and shops*
+*European stores*
 
 * [Bike24](https://bike24.de/) - Bike24 (lowest prices, fast shipping)
 * [Bike-Components](https://bike-components.de/) - Bike-Components (lowest prices, fast shipping)
@@ -74,5 +79,6 @@ Awesome Tools for cyclists
 
 * [StravaGPXBot](https://t.me/stravagpxbot) - Download GPX file from Strava activity
 
-### Browser Extensions
-TODO: add
+### Browser extensions
+
+* [Elevate for Strava](https://chrome.google.com/webstore/detail/elevate-for-strava/dhiaggccakkgdfcadnklkbljcgicpckn) - Strava extended analytics
